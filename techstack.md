@@ -58,7 +58,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [TajAlasfiyaa/taxonomy](https://github.com/TajAlasfiyaa/taxonomy)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|45<br/>Tools used|12/10/23 <br/>Report generated|
+|46<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -285,9 +285,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (21)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (22)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (21)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (22)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -301,6 +301,7 @@ Full tech stack [here](/techstack.md)
 |[concurrently](https://www.npmjs.com/concurrently)|v8.0.1|04/25/23|shadcn |MIT|N/A|
 |[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.8.0|04/24/23|shadcn |MIT|N/A|
 |[eslint-plugin-react](https://www.npmjs.com/eslint-plugin-react)|v7.32.2|04/24/23|shadcn |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.3|04/24/23|shadcn |MIT|N/A|
 |[next-auth](https://www.npmjs.com/next-auth)|v4.22.1|04/29/23|shadcn |N/A|[CVE-2023-48309](https://github.com/advisories/GHSA-v64w-49xw-qq89) (Moderate)|
 |[next-contentlayer](https://www.npmjs.com/next-contentlayer)|v0.3.1|04/29/23|shadcn |N/A|N/A|
 |[pretty-quick](https://www.npmjs.com/pretty-quick)|v3.1.3|04/24/23|shadcn |MIT|N/A|
